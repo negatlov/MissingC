@@ -105,3 +105,33 @@ First Header|Second Header|Third Header
 `[id]: url/to/image  "Optional title attribute"`
 
 
+##补充知识
+MultiMarkdown针对Markdown的某些缺失的功能，所设计的超集。  
+支持的语法有：
+
+> * footnotes
+* tables
+* citations and bibliography (works best in LaTeX using BibTeX)
+* math support
+* automatic cross-referencing ability
+* smart typography, with support for multiple languages
+* image attributes
+* table and image captions
+* definition lists
+* glossary entries (LaTeX only)
+* document metadata (e.g. title, author, date, etc.)
+
+另外，Markdown Extra也是类似的Markdown超集。
+支持的语法有：
+
+> * Inline HTML
+* Markdown Inside HTML Blocks
+* Header Id Attribute
+* Fenced Code Blocks
+* Tables
+* Definition Lists
+* Footnotes
+* Abbreviations
+* Emphasis
+* Backslash Escapes
+
