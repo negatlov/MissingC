@@ -69,6 +69,7 @@ long qualifier可以限定double。
 
 ##Chapter 4: Functions And Program Structure
 >弄懂三类变量
+>一个需要弄明白的大事：函数的调用过程中，参数的传递类似于赋值的过程。
 
 ###Pg 80. 
 >该页关于external variable及其scope的讲解很透彻。
